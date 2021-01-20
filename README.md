@@ -1,1 +1,3 @@
-![](resources/courage.jpg)
+<p align="center"> 
+<img src="resources/courage.jpg">
+</p>
