@@ -1,1 +1,1 @@
-![](resources/courage.png)
+![](resources/courage.jpg)
