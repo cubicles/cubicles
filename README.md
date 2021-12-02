@@ -1,3 +1,3 @@
 <p align="center"> 
-<img  width="400" src="resources/courage.jpg">
+<img  width="399" src="resources/courage.jpg">
 </p>
